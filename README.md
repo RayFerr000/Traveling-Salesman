@@ -1,0 +1,1 @@
+The goal of this assignment was to find approximate solution to the Euclidean Traveling Salesman problem. The input sizes were graphs with 8,16, and 32 vertices. The algorithmic methods I used were Branch and Bound, Backtracking, Greedy, and Brute Force(just for fun of course).
